@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+
+Car-Price-Prediction/
+│
+├── car data.csv
+├── car_price_prediction.py
+├── requirements.txt
+└── README.md
